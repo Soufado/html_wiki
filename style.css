@@ -1,0 +1,84 @@
+.wiki {
+    display: inline-flex;
+    text-align: center;
+}
+
+body {
+    background-color: #eaf3f8;
+}
+
+header {
+    width: 60%;
+}
+
+.article-jour {
+    width: 40%;
+}
+
+.presentation {
+    width: 25%;
+}
+
+.barre {
+    text-align: center;
+}
+
+.search {
+    width: 385px;
+    height: 30px;
+}
+
+.wikibas {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.encyclopedie {
+    text-align: center;
+}
+
+
+.gauche {
+    float: left;
+    width: 20%;
+    margin-left: 10px;
+}
+
+.actualites {
+    float: left;
+    width: 40%;
+    right: auto;
+}
+
+.ephemeride {
+    width: 30%;
+}
+.saviezvous {
+    width: 40%;
+}
+
+.image-jour {
+    width: 30%;
+}
+
+ul.horizontal-list {
+    list-style: none;
+  }
+  ul.horizontal-list li {
+    display: inline;
+  }
+ 
+  .image-droite-text {
+      float: right;
+  }
+
+ .ensemble {
+     display: flex;
+     align-items: flex-start;
+     flex-wrap: wrap;
+ }
+
+ 
