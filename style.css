@@ -11,6 +11,10 @@ header {
     width: 60%;
 }
 
+.em{
+    margin-right: 2em;
+}
+
 .article-jour {
     width: 40%;
 }
